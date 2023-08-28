@@ -1,10 +1,9 @@
-# E-Taka-Website
 # E-Taka: Electronic Waste Disposal and Recycling Platform
 
-![E-Taka Logo](https://github.com/nyeliep/E-Taka-Website/assets/119076184/6e20dc63-c096-4a39-924a-a1288b991874)
+![E-Taka logo](https://github.com/nyeliep/E-Taka-Project/assets/119076184/f1b731aa-4383-4544-9e3e-2965a395884a)
 
 
-Welcome to E-Taka, an innovative platform that includes an Android app, an informative website, and a dashboard for recycling companies. E-Taka is dedicated to addressing the growing concern of electronic waste disposal and promoting recycling. The platform aims to provide individuals with a convenient and eco-friendly way to dispose of their electronic waste while also offering a marketplace for buying and selling recyclable materials. Additionally, recycling companies are equipped with a dashboard for managing and tracking recycling activities. This README will guide you through the features, setup, and usage of the E-Taka platform.
+Welcome to E-Taka, an innovative platform that is dedicated to addressing the growing concern of electronic waste disposal and promoting recycling. The platform aims to provide individuals with a convenient and eco-friendly way to dispose of their electronic waste while also offering a marketplace for buying and selling recyclable materials. Additionally, recycling companies are equipped with a dashboard for managing and tracking recycling activities. This README will guide you through the features, setup, and usage of the E-Taka platform.
 
 ## Table of Contents
 
@@ -14,8 +13,6 @@ Welcome to E-Taka, an innovative platform that includes an Android app, an infor
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -121,18 +118,11 @@ This repository contains the source code for the E-Taka Android app, the informa
 
 2. Follow the instructions in the dashboard's README to set up and run the dashboard application.
 
-## Contributing
-
-We welcome contributions from the community to help improve E-Taka. If you would like to contribute, please follow our [Contribution Guidelines](CONTRIBUTING.md).
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to contact our team at [contact@etaka.com](mailto:contact@etaka.com).
+If you have any questions, suggestions, or feedback, please feel free to contact our team at
 
-Visit the live website: [https://www.etaka.com](https://www.etaka.com)
+Visit the live website:
 
 Thank you for being a part of the E-Taka initiative for a cleaner and more sustainable future!
